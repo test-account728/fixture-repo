@@ -1,2 +1,3 @@
-# fixture-repo
-markdown-editor e2e-github fixture repo — do not delete
+# Fixture Repo
+
+Stable read-only fixture for the markdown-editor `e2e-github` suite (REPO-19 / REPO-22).
